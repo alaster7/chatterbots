@@ -6,7 +6,7 @@ include_in_header: false
 
 # Privacy Statement
 
-Last updated: June 1, 2024
+Last updated: June 1, 2025
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -24,8 +24,8 @@ For the purposes of this Privacy Policy:
 
 - **Account** means a unique account created for You to access our Service or parts of our Service.
 - **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where “control” means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
-- **Application** refers to Blooming Letters, the software program provided by the Company.
-- **Company** (referred to as either “the Company”, “We”, “Us” or “Our” in this Agreement) refers to Blooming Letters.
+- **Application** refers to ChatterBots, the software program provided by the Company.
+- **Company** (referred to as either “the Company”, “We”, “Us” or “Our” in this Agreement) refers to ChatterBots.
 - **Country** refers to: United Kingdom
 - **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 - **Personal Data** is any information that relates to an identified or identifiable individual.
